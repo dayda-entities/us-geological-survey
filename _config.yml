@@ -10,7 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif'
+profile_pic: 'https://directory.dayda.org/assets/img/entities/us-geological-survey.png'
 favicon: /assets/img/favicon.png
 url: 'http://us-geological-survey.dayda.org'
 encoding: utf-8
